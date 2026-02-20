@@ -1,2 +1,2 @@
 # coding-practice-repo
-A collection of my daily coding practice programs
+http://localhost:8888/notebooks/lab.ipynb
